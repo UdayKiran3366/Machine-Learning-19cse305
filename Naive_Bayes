@@ -1,0 +1,5 @@
+Naive bayes
+
+1. Multinomial Naive Bayes - used to solve text classification problem - input is of type descrete
+2. Gaussian Naive Bayes - used to solve text regression problem - input is of type continuos values
+3. Bernouli Naive Bayes - used to solve text classification problem - input is of type binary values (takes care of whether the word occur or not)
